@@ -92,3 +92,7 @@ PRODUCT_PACKAGES += \
 # RcsService
 PRODUCT_PACKAGES += \
     RcsService
+
+# Symbols
+PRODUCT_PACKAGES += \
+    libshim_showlogo
